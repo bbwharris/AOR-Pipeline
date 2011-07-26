@@ -1,0 +1,11 @@
+$logo_width: 100px;
+$logo_height: 100px;
+
+a.aor {
+  width: $logo_width;
+  height: $logo_height;
+  background: url(aor.png) no-repeat 0 0;
+  display: block;
+  text-indent: -9999px;
+  overflow: hidden;
+}
